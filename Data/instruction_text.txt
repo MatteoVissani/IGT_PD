@@ -1,0 +1,14 @@
+In questo esperimento il tuo obiettivo è quello di vincere piu' soldi che puoi. 
+Ti sara' chiesto di selezionare ripetutamente una carta da uno dei quattro
+mazzi che saranno mostrati sullo schermo.
+
+Con ogni carda potrai vincere dei soldi, ma anche perderne!!!
+Alcuni mazzi saranno pmigliori rispetto agli altri; quindi cerca di pescare
+dai mazzi migliori per ottenere tanti soldi! 
+
+Avrai a disposizione 100 tentativi per selezionare una carta dal mazzo che 
+reputi migliore. I tuoi guadagni e il numero di carte selezionate saranno 
+mostrati sullo
+schermo. 
+
+Partirai con 2000 Euro.

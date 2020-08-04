@@ -1,0 +1,10 @@
+selection for trial 1: B
+selection for trial 2: D
+selection for trial 3: A
+selection for trial 4: B
+selection for trial 5: D
+selection for trial 6: C
+selection for trial 7: D
+selection for trial 8: C
+selection for trial 9: D
+selection for trial 10: C
